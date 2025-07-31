@@ -1,5 +1,7 @@
 # Implementing Relation Extraction on DocRED dataset
+## License
 
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## **Getting Started**
 ### 1. Python (Conda) Environment
